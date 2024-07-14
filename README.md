@@ -1,2 +1,2 @@
-# doxing
-Proyecto con PHP y JS para doxear personas
+# Doxing
+Aplicativo para doxear personas, mediante su ubicación y capturas. (Educativvo)
