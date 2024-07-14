@@ -1,5 +1,4 @@
 <?php
-
 $host = "localhost";
 $dbname = "qyvwiiui_kk";
 $username = "qyvwiiui_admin";
