@@ -1,2 +1,2 @@
 # Doxing
-Aplicativo para doxear personas, mediante su ubicación y capturas. (Educativvo)
+Project with PHP and JavaScript for doxing people (Educational)
